@@ -3,7 +3,7 @@
 # Project: CMSIS-DSP Library
 #
 # Description:
-#	Makefile used to build the CMSIS-DSP Library.
+# Makefile used to build the CMSIS-DSP Library.
 #
 ########################################################################################################################
 #
